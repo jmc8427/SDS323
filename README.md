@@ -1,2 +1,4 @@
 # SDS323
-# test
+James Cornejo
+SDS323
+Computational Engineering | 4th Year
